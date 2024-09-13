@@ -1,0 +1,2 @@
+requests
+# json # Adding this will result in an error because json is a built-in Python module and does not need to be included in the requirements.txt
